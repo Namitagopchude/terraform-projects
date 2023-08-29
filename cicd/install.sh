@@ -15,4 +15,3 @@ sudo yum -y install terraform
 # verify terraform is installed
 terraform --version
 
-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
