@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # fail on any error
-set -eu
+#set -eu
 
 # configure named profile
 aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID 
